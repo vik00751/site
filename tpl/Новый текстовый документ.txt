@@ -1,0 +1,1 @@
+﻿  <h1 class="pull-right"><a href="/">Резюме</a> | <a href="/portfolio">Портфолио</a> </h1>
